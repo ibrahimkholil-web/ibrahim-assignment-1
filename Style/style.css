@@ -51,7 +51,7 @@
 /* navber section ends here */
 /* hero-section start here */
 #hero{
-    height: 652px;
+    height: auto;
     background-image: url(../assets/Hero-bg.png);
 }
 .hero-section{
@@ -76,6 +76,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 26px;
 letter-spacing: 0%;
+padding: 0px 20px;
 }
 .hero-section > button{
     padding: 21px 24px ;
@@ -83,6 +84,7 @@ letter-spacing: 0%;
     font-weight: 600;
     border-radius: 8px;
     background-color: black;
+    margin-bottom: 26px;
 }
 .hero-section > button > a{
     text-decoration: none;
