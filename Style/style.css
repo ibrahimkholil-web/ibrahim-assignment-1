@@ -322,7 +322,7 @@ footer{
     height: 100px;
     margin-top: 80px;
 }
-.footer{
+#footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
