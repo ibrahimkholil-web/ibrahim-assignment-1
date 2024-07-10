@@ -5,6 +5,7 @@
 .container{
     margin: 0px 150px;
     font-family: "Azeret Mono", monospace;
+    width: 1140px;
 }
 
 /* all style */
@@ -268,7 +269,6 @@ text-align: left;
 /* next Target section ends here */
 /* support section start here */
 #support-section{
-
     background-image: url(../assets/handshake.jpg);
     height: 313px;
     margin-top: 50px;
