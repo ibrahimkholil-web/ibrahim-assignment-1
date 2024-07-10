@@ -304,7 +304,7 @@ opacity: 0.7;
     width: 548px;
     font-size: 16px ;
 }
-#support-section > button{
+#support-section > .submit{
     border-radius: 8px;
     padding: 17px 20px;
     background: rgb(255, 255, 255);
@@ -314,6 +314,7 @@ opacity: 0.7;
     font-size: 16px;
     margin-top: 50px;
     cursor: pointer;
+    text-align: center;
 }
 /* support section ends here */
 /* footer section start here */
